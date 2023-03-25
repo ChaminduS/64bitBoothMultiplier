@@ -1,0 +1,243 @@
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v failed with 1 errors.
+# 10 compiles, 1 failed with 1 error.
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_substep
+# vsim -gui work.tb_booth_substep 
+# Start time: 07:08:45 on Mar 25,2023
+# Loading work.tb_booth_substep
+# Loading work.booth_substep
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'getOnesComplement'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_booth_substep/my_booth_substep File: D:/FYP/Booth_mulltiplier/booth_substep.v Line: 14
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'sixtyFourBitAdderSubtractor'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_booth_substep/my_booth_substep File: D:/FYP/Booth_mulltiplier/booth_substep.v Line: 16
+# Error loading design
+# End time: 07:08:45 on Mar 25,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 4
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_substep
+# vsim -gui work.tb_booth_substep 
+# Start time: 07:09:41 on Mar 25,2023
+# Loading work.tb_booth_substep
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+run
+#                    0   acc =                    0, Q =  -1085102592571150096, q0=  0M =                    1 => next_acc                    0, next_Q =  8680820740569200760 q0_next =0
+#                   10   acc =                    0, Q =                     1, q0= -1M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   20   acc =                    0, Q =                     1, q0=  0M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   30   acc =                    3, Q =                     2, q0= -1M =                    1 => next_acc                    1, next_Q =                    1 q0_next =0
+quit -sim
+# End time: 07:11:12 on Mar 25,2023, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 2
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_substep
+# vsim -gui work.tb_booth_substep 
+# Start time: 07:11:32 on Mar 25,2023
+# Loading work.tb_booth_substep
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+run
+#                    0   acc =                    0, Q =  -1085102592571150096, q0=  0, M =                    1 => next_acc                    0, next_Q =  8680820740569200760 q0_next =0
+#                   10   acc =                    0, Q =                     1, q0= -1, M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   20   acc =                    0, Q =                     1, q0=  0, M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   30   acc =                    3, Q =                     2, q0= -1, M =                    1 => next_acc                    1, next_Q =                    1 q0_next =0
+quit -sim
+# End time: 07:15:23 on Mar 25,2023, Elapsed time: 0:03:51
+# Errors: 0, Warnings: 2
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_substep
+# vsim -gui work.tb_booth_substep 
+# Start time: 07:15:50 on Mar 25,2023
+# Loading work.tb_booth_substep
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+run
+#                    0   acc =                    0, Q =  -1085102592571150096, q0= 0, M =                    1 => next_acc                    0, next_Q =  8680820740569200760 q0_next =0
+#                   10   acc =                    0, Q =                     1, q0= 1, M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   20   acc =                    0, Q =                     1, q0= 0, M =                    1 => next_acc                    0, next_Q =                    0 q0_next =1
+#                   30   acc =                    3, Q =                     2, q0= 1, M =                    1 => next_acc                    1, next_Q =                    1 q0_next =0
+quit -sim
+# End time: 07:18:38 on Mar 25,2023, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 2
+vsim -gui work.tb_booth_multiplier
+# vsim -gui work.tb_booth_multiplier 
+# Start time: 07:18:56 on Mar 25,2023
+# Loading work.tb_booth_multiplier
+# Loading work.booth_multiplier
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+# ** Warning: Design size of 8386 instances exceeds ModelSim - Intel FPGA Starter Edition recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim - Intel FPGA Edition. Expect performance to be adversely affected.
+run
+#                    0                           1 *                    1 =                                        4
+#                   10                           0 *                    0 =                                        0
+#                   20                          -1 *                    0 =                                        0
+#                   30                          15 *                    1 =                                       32
+#                   40                         560 *                    2 =                                     4356
+#                   50        -1152921504606846976 *                    1 =                                        2
+#                   60        -9223372036854775807 *                    5 =                                       20
+quit -sim
+# End time: 07:19:45 on Mar 25,2023, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 2
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_multiplier
+# vsim -gui work.tb_booth_multiplier 
+# Start time: 07:19:57 on Mar 25,2023
+# Loading work.tb_booth_multiplier
+# Loading work.booth_multiplier
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+# ** Warning: Design size of 8386 instances exceeds ModelSim - Intel FPGA Starter Edition recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim - Intel FPGA Edition. Expect performance to be adversely affected.
+run
+#                    0                           1 *                    1 =                                        4
+#                   10                           0 *                    0 =                                        0
+#                   20                          -1 *                    0 =                                        0
+#                   30                          15 *                    1 =                                       32
+#                   40                         560 *                    2 =                                     4356
+#                   50        -1152921504606846976 *                    1 =                                        2
+#                   60        -9223372036854775807 *                    5 =                                       20
+run
+quit -sim
+# End time: 07:21:25 on Mar 25,2023, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 3
+vsim -gui work.booth_substep
+# vsim -gui work.booth_substep 
+# Start time: 08:59:31 on Mar 25,2023
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+add wave -position end  sim:/booth_substep/acc
+add wave -position end  sim:/booth_substep/Q
+add wave -position end  sim:/booth_substep/q0
+add wave -position end  sim:/booth_substep/multiplicand
+add wave -position end  sim:/booth_substep/int_ip
+force -freeze sim:/booth_substep/acc 64 0
+# Invalid binary digit: 6.
+# ** UI-Msg: (vsim-4011) Invalid force value: 64 0.
+# 
+force -freeze sim:/booth_substep/acc 64'h0 0
+force -freeze sim:/booth_substep/Q 64'hF0 0
+force -freeze sim:/booth_substep/multiplicand 64'hFF0 0
+run
+# Break in Module booth_substep at D:/FYP/Booth_mulltiplier/booth_substep.v line 18
+restart -f
+force -freeze sim:/booth_substep/acc 64'h0 0
+force -freeze sim:/booth_substep/Q 64'hF 0
+force -freeze sim:/booth_substep/multiplicand 64'h0F 0
+run
+# Break in Module booth_substep at D:/FYP/Booth_mulltiplier/booth_substep.v line 18
+quit -sim
+# End time: 09:08:30 on Mar 25,2023, Elapsed time: 0:08:59
+# Errors: 0, Warnings: 1
+# Compile of tb_sixtyFourBitAdderSubtractor.v was successful.
+# Compile of getOnesComplement.v was successful.
+# Compile of tb_getOnesComplement.v was successful.
+# Compile of xor2.v was successful.
+# Compile of tb_xor2.v was successful.
+# Compile of sixtyFourBitAdderSubtractor.v was successful.
+# Compile of booth_substep.v was successful.
+# Compile of booth_mutltiplier.v was successful.
+# Compile of tb_booth_multiplier.v was successful.
+# Compile of tb_booth_substep.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.tb_booth_multiplier
+# vsim -gui work.tb_booth_multiplier 
+# Start time: 09:08:45 on Mar 25,2023
+# Loading work.tb_booth_multiplier
+# Loading work.booth_multiplier
+# Loading work.booth_substep
+# Loading work.getOnesComplement
+# Loading work.xor2
+# Loading work.sixtyFourBitAdderSubtractor
+# Loading work.fa
+# ** Warning: Design size of 8386 instances exceeds ModelSim - Intel FPGA Starter Edition recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim - Intel FPGA Edition. Expect performance to be adversely affected.
+run
+#                    0                           1 *                    1 =                                        1
+#                   10                           0 *                    0 =                                        0
+#                   20                          -1 *                    0 =                                        0
+#                   30                          15 *                    1 =                                       15
+#                   40                         560 *                    2 =                                     1122
+#                   50        -1152921504606846976 *                    1 =                     -1152921504606846975
+#                   60        -9223372036854775807 *                    5 =                    -46116860184273879035
+# End time: 09:09:48 on Mar 25,2023, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 3

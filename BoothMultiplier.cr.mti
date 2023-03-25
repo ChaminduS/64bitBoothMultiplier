@@ -1,0 +1,72 @@
+D:/FYP/Booth_mulltiplier/tb_xor2.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/tb_xor2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_xor2
+
+Top level modules:
+	tb_xor2
+
+} {} {}} D:/FYP/Booth_mulltiplier/booth_substep.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/booth_substep.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_substep
+
+Top level modules:
+	booth_substep
+
+} {} {}} D:/FYP/Booth_mulltiplier/getOnesComplement.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/getOnesComplement.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module getOnesComplement
+
+Top level modules:
+	getOnesComplement
+
+} {} {}} D:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fa
+-- Compiling module sixtyFourBitAdderSubtractor
+
+Top level modules:
+	sixtyFourBitAdderSubtractor
+
+} {} {}} D:/FYP/Booth_mulltiplier/tb_booth_substep.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/tb_booth_substep.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_booth_substep
+
+Top level modules:
+	tb_booth_substep
+
+} {} {}} D:/FYP/Booth_mulltiplier/tb_getOnesComplement.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/tb_getOnesComplement.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_getOnesComplement
+
+Top level modules:
+	tb_getOnesComplement
+
+} {} {}} D:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_sixtyFourBitAdderSubtractor
+
+Top level modules:
+	tb_sixtyFourBitAdderSubtractor
+
+} {} {}} D:/FYP/Booth_mulltiplier/booth_mutltiplier.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/booth_mutltiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_multiplier
+
+Top level modules:
+	booth_multiplier
+
+} {} {}} D:/FYP/Booth_mulltiplier/xor2.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/xor2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor2
+
+Top level modules:
+	xor2
+
+} {} {}} D:/FYP/Booth_mulltiplier/tb_booth_multiplier.v {1 {vlog -work work -stats=none D:/FYP/Booth_mulltiplier/tb_booth_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_booth_multiplier
+
+Top level modules:
+	tb_booth_multiplier
+
+} {} {}}

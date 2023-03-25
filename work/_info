@@ -1,0 +1,291 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FYP/Booth-Multiplier-in-iverilog
+vbooth_multiplier
+Z0 !s110 1679715516
+!i10b 1
+!s100 ja5YQF@>2>e;4Mzi1G^WN3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhSF@>:Og2oFU`4_@X<_^?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FYP/Booth_mulltiplier
+w1679633888
+8D:/FYP/Booth_mulltiplier/booth_mutltiplier.v
+FD:/FYP/Booth_mulltiplier/booth_mutltiplier.v
+!i122 276
+L0 1 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1679715516.000000
+!s107 D:/FYP/Booth_mulltiplier/booth_mutltiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/booth_mutltiplier.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbooth_substep
+R0
+!i10b 1
+!s100 ;SSNlWWYL6`bEnHb5]ONm2
+R1
+IfeYnc^:zOMiQ=NGnT=gPV2
+R2
+R3
+w1679715469
+8D:/FYP/Booth_mulltiplier/booth_substep.v
+FD:/FYP/Booth_mulltiplier/booth_substep.v
+!i122 275
+L0 1 38
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FYP/Booth_mulltiplier/booth_substep.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/booth_substep.v|
+!i113 1
+R6
+R7
+vfa
+R0
+!i10b 1
+!s100 5O5^JJ6lQ4^e4LdBCFRjo1
+R1
+IdR@FISIbZZ?Y4aPJ6AZi41
+R2
+R3
+Z8 w1679627021
+Z9 8D:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v
+Z10 FD:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v
+!i122 274
+L0 1 4
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 D:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/sixtyFourBitAdderSubtractor.v|
+!i113 1
+R6
+R7
+vgetOnesComplement
+Z13 !s110 1679715515
+!i10b 1
+!s100 ]R<A[3:8aS]Md52Y:7[dK3
+R1
+IdQYL[YZQAkG3^41;4]AG01
+R2
+R3
+w1679626669
+8D:/FYP/Booth_mulltiplier/getOnesComplement.v
+FD:/FYP/Booth_mulltiplier/getOnesComplement.v
+!i122 270
+L0 3 91
+R4
+r1
+!s85 0
+31
+Z14 !s108 1679715515.000000
+!s107 D:/FYP/Booth_mulltiplier/getOnesComplement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/getOnesComplement.v|
+!i113 1
+R6
+R7
+nget@ones@complement
+vsixtyFourBitAdderSubtractor
+R0
+!i10b 1
+!s100 K<IXdWbm3POBIc[DfcXR72
+R1
+IhLAe>f_NzTd[;@Y2@O9>o3
+R2
+R3
+R8
+R9
+R10
+!i122 274
+L0 6 23
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+nsixty@four@bit@adder@subtractor
+vtb
+!s110 1679634164
+!i10b 1
+!s100 4o5zYz^iL<Tca35COeH2?0
+R1
+I[BFCJSBH40R8CR[PdF:RE2
+R2
+R3
+w1679634144
+Z15 8D:/FYP/Booth_mulltiplier/tb_booth_multiplier.v
+Z16 FD:/FYP/Booth_mulltiplier/tb_booth_multiplier.v
+!i122 200
+Z17 L0 1 47
+R4
+r1
+!s85 0
+31
+!s108 1679634163.000000
+Z18 !s107 D:/FYP/Booth_mulltiplier/tb_booth_multiplier.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/tb_booth_multiplier.v|
+!i113 1
+R6
+R7
+vtb_booth_multiplier
+R0
+!i10b 1
+!s100 F<jN[Q5<@d8EE<=KSVPmO2
+R1
+I^k?9fZ5oVMjhmMG3=ZU=f0
+R2
+R3
+w1679634184
+R15
+R16
+!i122 277
+R17
+R4
+r1
+!s85 0
+31
+R5
+R18
+R19
+!i113 1
+R6
+R7
+vtb_booth_substep
+R0
+!i10b 1
+!s100 i:TAI@IFgfS9JAJQ>iR2:3
+R1
+I=ThS?[iDlRZGX]OZQ8n:50
+R2
+R3
+w1679708717
+8D:/FYP/Booth_mulltiplier/tb_booth_substep.v
+FD:/FYP/Booth_mulltiplier/tb_booth_substep.v
+!i122 278
+L0 1 53
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FYP/Booth_mulltiplier/tb_booth_substep.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/tb_booth_substep.v|
+!i113 1
+R6
+R7
+vtb_getOnesComplement
+R13
+!i10b 1
+!s100 9=_JUGLZ0><>j5`JJ9^R<3
+R1
+IY^a]Y4J5Bk6EPzfUkR>7T0
+R2
+R3
+w1679555956
+8D:/FYP/Booth_mulltiplier/tb_getOnesComplement.v
+FD:/FYP/Booth_mulltiplier/tb_getOnesComplement.v
+!i122 271
+L0 1 45
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/FYP/Booth_mulltiplier/tb_getOnesComplement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/tb_getOnesComplement.v|
+!i113 1
+R6
+R7
+ntb_get@ones@complement
+vtb_sixtyFourBitAdderSubtractor
+R13
+!i10b 1
+!s100 C3WHKZ2o><Ail;V7j[2a@3
+R1
+IOUjW_L53kdhFVEB_DX^>^1
+R2
+R3
+w1679627238
+8D:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v
+FD:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v
+!i122 269
+L0 1 40
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/tb_sixtyFourBitAdderSubtractor.v|
+!i113 1
+R6
+R7
+ntb_sixty@four@bit@adder@subtractor
+vtb_xor2
+R13
+!i10b 1
+!s100 ^Qb>eaoRTIJFzWDV=iHQ@1
+R1
+I@`54=iE6l4eUe07<j__Uo0
+R2
+R3
+w1679549219
+8D:/FYP/Booth_mulltiplier/tb_xor2.v
+FD:/FYP/Booth_mulltiplier/tb_xor2.v
+!i122 273
+L0 1 35
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/FYP/Booth_mulltiplier/tb_xor2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/tb_xor2.v|
+!i113 1
+R6
+R7
+vxor2
+R13
+!i10b 1
+!s100 O0CBIcVnTK;_d^JhXGbf32
+R1
+IQ61P3QCCamDGaEkR5QiO]0
+R2
+R3
+w1679548767
+8D:/FYP/Booth_mulltiplier/xor2.v
+FD:/FYP/Booth_mulltiplier/xor2.v
+!i122 272
+L0 1 9
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/FYP/Booth_mulltiplier/xor2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FYP/Booth_mulltiplier/xor2.v|
+!i113 1
+R6
+R7
